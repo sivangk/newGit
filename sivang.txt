@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Primary Line from Master
+=======
+Nested Line Added
+>>>>>>> another_master
