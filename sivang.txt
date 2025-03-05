@@ -2,4 +2,8 @@
 This is Primary Line from Master
 =======
 Nested Line Added
+<<<<<<< HEAD
+>>>>>>> another_master
+=======
+Another Nested Line Added
 >>>>>>> another_master
